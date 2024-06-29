@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
-// Styled-components for the gallery
 const GalleryContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
